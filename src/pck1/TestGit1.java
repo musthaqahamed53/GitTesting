@@ -21,6 +21,11 @@ public class TestGit1 {
 		this.age = age;
 	}
 
+	@Override
+	public String toString() {
+		return "TestGit1 [name=" + name + ", age=" + age + "]";
+	}
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hi Git Community");
