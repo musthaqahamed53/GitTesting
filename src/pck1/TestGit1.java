@@ -26,5 +26,5 @@ public class TestGit1 {
 		return "TestGit1 [name=" + name + ", age=" + age + "]";
 	}
 
-
+//added line to test pull request to master
 }
