@@ -20,7 +20,11 @@ public class TestGit1 {
 	public void setAge(int age) {
 		this.age = age;
 	}
+  
 //line in dev eg
+//line in master
+	//new line in master
+
 	@Override
 	public String toString() {
 		return "TestGit1 [name=" + name + ", age=" + age + "]";
@@ -28,4 +32,5 @@ public class TestGit1 {
 
 //added line to test pull request to master
 	//line in dev 2
+
 }
