@@ -34,4 +34,5 @@ public class TestGit1 {
 	//line in dev 2
 //line added in local
 	//local line 2
+	//line for master commit from local
 }
