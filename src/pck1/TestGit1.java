@@ -33,4 +33,5 @@ public class TestGit1 {
 //added line to test pull request to master
 	//line in dev 2
 //line added in local
+	//local line 2
 }
